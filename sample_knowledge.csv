@@ -1,7 +1,7 @@
 subject,predicate,object,source
 capital of Nigeria,is,Abuja,CIA World Factbook
 capital of France,is,Paris,CIA World Factbook
-capital of the United States,is,Washington, D.C.,CIA World Factbook
+capital of the United States,is,"Washington, D.C.",CIA World Factbook
 capital of the United Kingdom,is,London,CIA World Factbook
 capital of Japan,is,Tokyo,CIA World Factbook
 capital of Australia,is,Canberra,CIA World Factbook
@@ -23,7 +23,7 @@ chemical symbol for iron,is,Fe,IUPAC
 chemical symbol for sodium,is,Na,IUPAC
 chemical symbol for potassium,is,K,IUPAC
 atomic number of oxygen,is,8,IUPAC
-speed of light in vacuum,is,299,792,458 meters per second,NIST
+speed of light in vacuum,is,"299,792,458 meters per second",NIST
 year the first iPhone was released,was,2007,Apple Inc.
 year World War II ended,was,1945,Encyclopaedia Britannica
 year the Berlin Wall fell,was,1989,Encyclopaedia Britannica
