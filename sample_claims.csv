@@ -1,0 +1,16 @@
+claim_id,subject,predicate,object
+C-001,capital of Nigeria,is,Abuja
+C-002,capital of Nigeria,is,Lagos
+C-003,capital of France,is,Paris
+C-004,capital of France,is,Rome
+C-005,first president of the United States,was,George Washington
+C-006,first president of the United States,was,Abraham Lincoln
+C-007,sixteenth president of the United States,was,Abraham Lincoln
+C-008,chemical symbol for gold,is,Au
+C-009,chemical symbol for gold,is,Ag
+C-010,atomic number of oxygen,is,8
+C-011,year the first human walked on the moon,was,1969
+C-012,year the first human walked on the moon,was,1972
+C-013,capital of Switzerland,is,Bern
+C-014,chemical symbol for helium,is,He
+C-015,year the Berlin Wall fell,was,1991
